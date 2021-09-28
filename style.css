@@ -1,3 +1,16 @@
 body {
-    background: blue;
-}
+    background-color: rgb(94, 17, 17);
+    font-family: Helvetica;
+    color: rgb(243, 222, 222);
+    text-align: center;
+};
+
+quote {
+    font-family: Haettenschweiler;
+    font-style: italic;
+};
+
+h3 {
+    font-style: italic;
+    font-family: Lucida;
+};
